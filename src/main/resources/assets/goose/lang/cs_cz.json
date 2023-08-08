@@ -1,0 +1,23 @@
+{
+  "item.goose.pizza": "Pizza",
+  "item.goose.dough": "Těsto",
+  "item.goose.tomato": "Rajče",
+  "item.goose.tomato_seeds": "Semena rajčat",
+  "item.goose.cheese": "Sýr",
+  "item.goose.pepperoni": "Pepperoni",
+  "item.goose.sausage": "Klobása",
+  "item.goose.basil": "Bazalka",
+  "item.goose.extraordinary_soup": "Výjimečná polévka",
+  "item.goose.soup_pot": "Hrnec na polévku",
+  "item.goose.chicken_bone": "Kuřecí kost",
+  "item.goose.onion": "Cibule",
+  "item.goose.onion_seeds": "Semena cibule",
+  "item.goose.salt_and_pepper": "Sůl a pepř",
+  "item.goose.nitka_do_zupy": "Nit Na polévku",
+  "item.goose.raw_goose_meat": "Syrové husí maso",
+  "item.goose.raw_duck_meat": "Syrové kachní maso",
+  "item.goose.goose_toes": "Husí prsty",
+  "item.goose.duck_toes": "Kachní prsty",
+  "item.goose.goose_spawn_egg": "Husí vejce",
+  "item.goose.duck_spawn_egg": "Kachní vejce"
+}
