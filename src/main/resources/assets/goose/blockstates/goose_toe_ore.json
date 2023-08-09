@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "goose:block/goose_toe_ore"
+    }
+  }
+}

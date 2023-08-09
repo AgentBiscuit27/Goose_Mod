@@ -40,3 +40,6 @@
 > Drops raw duck/goose meat - if someone tries to cook they get a book that says “How dare you try to cook a goose/duck! Evil bum bum”
 >
 > Goose/Duck toes: 10% droprate - 9 = goose/duck spawn egg
+
+### Add twerk emote
+

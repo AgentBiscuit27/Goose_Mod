@@ -1,7 +1,19 @@
 {
   "variants": {
-    "": {
+    "facing=east": {
+      "model": "goose:block/pizza_oven",
+      "y": 90
+    },
+    "facing=north": {
       "model": "goose:block/pizza_oven"
+    },
+    "facing=south": {
+      "model": "goose:block/pizza_oven",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "goose:block/pizza_oven",
+      "y": 270
     }
   }
 }

@@ -21,5 +21,11 @@
   "item.goose.goose_spawn_egg": "Husí Vejce",
   "item.goose.duck_spawn_egg": "Kachní Vejce",
 
-  "block.goose.pizza_oven": "Pizza Pec"
+  "block.goose.pizza_oven": "Pizza Pec",
+  "block.goose.goose_toe_ore": "Ruda z Husích Prstů",
+  "block.goose.deepslate_goose_toe_ore": "Deepslate Ruda z Husích Prstů",
+  "block.goose.duck_toe_ore": "Ruda z Kachní Prstů",
+  "block.goose.deepslate_duck_toe_ore": "Deepslate Ruda z Kachní Prstů",
+
+  "creativetab.goose_tab": "Mod Husa"
 }

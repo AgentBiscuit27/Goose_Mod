@@ -21,5 +21,11 @@
   "item.goose.goose_spawn_egg": "ガチョウのスポーンエッグ",
   "item.goose.duck_spawn_egg": "アヒルのスポーンエッグ",
 
-  "block.goose.pizza_oven": "ピザオーブン"
+  "block.goose.pizza_oven": "ピザオーブン",
+  "block.goose.goose_toe_ore": "ガチョウの指の鉱石",
+  "block.goose.deepslate_goose_toe_ore": "ディープスレートグーストゥ鉱石",
+  "block.goose.duck_toe_ore": "アヒルのつま先の鉱石",
+  "block.goose.deepslate_duck_toe_ore": "ディープスレートダックトゥ鉱石",
+
+  "creativetab.goose_tab": "グースモッド"
 }

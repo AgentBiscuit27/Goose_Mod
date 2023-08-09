@@ -21,5 +21,11 @@
   "item.goose.goose_spawn_egg": "ƃƃƎ uʍɐdS ǝsooפ",
   "item.goose.duck_spawn_egg": "ƃƃƎ uʍɐdS ʞɔnp",
 
-  "block.goose.pizza_oven": "uǝʌO ɐzzᴉԀ"
+  "block.goose.pizza_oven": "uǝʌO ɐzzᴉԀ",
+  "block.goose.goose_toe_ore": "ǝɹO ǝo┴ ǝsooפ",
+  "block.goose.deepslate_goose_toe_ore": "ǝɹO ǝo┴ ǝsooפ ǝʇɐlsdǝǝp",
+  "block.goose.duck_toe_ore": "ǝɹO ǝo┴ ʞɔnp",
+  "block.goose.deepslate_duck_toe_ore": "ǝɹO ǝo┴ ʞɔnp ǝʇɐlsdǝǝp",
+
+  "creativetab.goose_tab": "poW ǝsooפ"
 }

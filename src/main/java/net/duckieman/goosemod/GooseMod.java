@@ -2,6 +2,7 @@ package net.duckieman.goosemod;
 
 import com.mojang.logging.LogUtils;
 import net.duckieman.goosemod.block.ModBlocks;
+import net.duckieman.goosemod.item.ModCreativeModeTabs;
 import net.duckieman.goosemod.item.ModItems;
 import net.minecraft.world.item.CreativeModeTabs;
 import net.minecraft.world.item.Item;
@@ -32,6 +33,8 @@ public class GooseMod {
     public GooseMod() {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
 
+        ModCreativeModeTabs.register(modEventBus);
+
         ModItems.register(modEventBus);
         ModBlocks.register(modEventBus);
 
@@ -48,22 +51,7 @@ public class GooseMod {
 
     // Add the example block item to the building blocks tab
     private void addCreative(BuildCreativeModeTabContentsEvent event) {
-        if (event.getTabKey() == CreativeModeTabs.INGREDIENTS) {
-            List<Item> items = ModItems.ITEMS.getEntries()
-                    .stream()
-                    .map(RegistryObject::get)
-                    .collect(Collectors.toList());
-            for (Item item : items) {
-                event.accept(item);
-            }
-            List<Block> blocks = ModBlocks.BLOCKS.getEntries()
-                    .stream()
-                    .map(RegistryObject::get)
-                    .collect(Collectors.toList());
-            for (Block block : blocks) {
-                event.accept(block);
-            }
-        }
+
     }
 
     // You can use SubscribeEvent and let the Event Bus discover methods to call

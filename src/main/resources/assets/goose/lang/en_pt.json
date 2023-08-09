@@ -21,5 +21,11 @@
   "item.goose.goose_spawn_egg": "Goose Spawn Egg",
   "item.goose.duck_spawn_egg": "Duck Spawn Egg",
 
-  "block.goose.pizza_oven": "Pizza Oven"
+  "block.goose.pizza_oven": "Pizza Oven",
+  "block.goose.goose_toe_ore": "Goose Toe Ore",
+  "block.goose.deepslate_goose_toe_ore": "Deepslate Goose Toe Ore",
+  "block.goose.duck_toe_ore": "Duck Toe Ore",
+  "block.goose.deepslate_duck_toe_ore": "Deepslate Duck Toe Ore",
+
+  "creativetab.goose_tab": "Goose Mod"
 }
