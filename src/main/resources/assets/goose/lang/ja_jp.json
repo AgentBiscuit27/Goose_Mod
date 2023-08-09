@@ -19,5 +19,7 @@
   "item.goose.goose_toes": "ガチョウのつま先",
   "item.goose.duck_toes": "アヒルのつま先",
   "item.goose.goose_spawn_egg": "ガチョウのスポーンエッグ",
-  "item.goose.duck_spawn_egg": "アヒルのスポーンエッグ"
+  "item.goose.duck_spawn_egg": "アヒルのスポーンエッグ",
+
+  "block.goose.pizza_oven": "ピザオーブン"
 }

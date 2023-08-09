@@ -1,9 +1,11 @@
 package net.duckieman.goosemod;
 
 import com.mojang.logging.LogUtils;
+import net.duckieman.goosemod.block.ModBlocks;
 import net.duckieman.goosemod.item.ModItems;
 import net.minecraft.world.item.CreativeModeTabs;
 import net.minecraft.world.item.Item;
+import net.minecraft.world.level.block.Block;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.event.BuildCreativeModeTabContentsEvent;
@@ -31,6 +33,7 @@ public class GooseMod {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
 
         ModItems.register(modEventBus);
+        ModBlocks.register(modEventBus);
 
         modEventBus.addListener(this::commonSetup);
 
@@ -52,6 +55,13 @@ public class GooseMod {
                     .collect(Collectors.toList());
             for (Item item : items) {
                 event.accept(item);
+            }
+            List<Block> blocks = ModBlocks.BLOCKS.getEntries()
+                    .stream()
+                    .map(RegistryObject::get)
+                    .collect(Collectors.toList());
+            for (Block block : blocks) {
+                event.accept(block);
             }
         }
     }

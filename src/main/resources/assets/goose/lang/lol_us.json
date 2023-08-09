@@ -19,5 +19,7 @@
   "item.goose.goose_toes": "Goose Toez",
   "item.goose.duck_toes": "Duck Toez",
   "item.goose.goose_spawn_egg": "Goose Spawn Egg",
-  "item.goose.duck_spawn_egg": "Duck Spawn Egg"
+  "item.goose.duck_spawn_egg": "Duck Spawn Egg",
+
+  "block.goose.pizza_oven": "Pizza Oven"
 }
