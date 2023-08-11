@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "goose:pizza_oven",
+    "goose:goose_toe_ore",
+    "goose:deepslate_goose_toe_ore",
+    "goose:duck_toe_ore",
+    "goose:deepslate_duck_toe_ore"
+  ]
+}

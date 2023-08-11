@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "goose:sausage"
+    }
+  ],
+  "result": {
+    "item": "goose:pepperoni",
+    "count": 9
+  }
+}

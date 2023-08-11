@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.1,
+  "group": "toes",
+  "ingredient": {
+    "item": "goose:deepslate_duck_toe_ore"
+  },
+  "result": "goose:duck_toes"
+}

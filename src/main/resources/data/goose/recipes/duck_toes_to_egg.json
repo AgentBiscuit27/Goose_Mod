@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "goose:duck_toes"
+    }
+  },
+  "result": {
+    "item": "goose:duck_spawn_egg"
+  }
+}

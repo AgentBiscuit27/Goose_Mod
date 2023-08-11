@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:chicken"
+  },
+  "result": "goose:chicken_bone",
+  "count": 2
+}

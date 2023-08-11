@@ -4,9 +4,6 @@ import com.mojang.logging.LogUtils;
 import net.duckieman.goosemod.block.ModBlocks;
 import net.duckieman.goosemod.item.ModCreativeModeTabs;
 import net.duckieman.goosemod.item.ModItems;
-import net.minecraft.world.item.CreativeModeTabs;
-import net.minecraft.world.item.Item;
-import net.minecraft.world.level.block.Block;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.event.BuildCreativeModeTabContentsEvent;
@@ -17,7 +14,6 @@ import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
 import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
-import net.minecraftforge.registries.RegistryObject;
 import org.slf4j.Logger;
 
 import java.util.List;

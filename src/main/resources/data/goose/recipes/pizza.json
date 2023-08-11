@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "~?~",
+    "@@@",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "goose:dough"
+    },
+    "@": {
+      "item": "goose:tomato"
+    },
+    "?": {
+      "item": "goose:cheese"
+    },
+    "~": {
+      "item": "goose:basil"
+    }
+  }
+}
