@@ -8,7 +8,6 @@
   "item.goose.sausage": "ソーセージ",
   "item.goose.basil": "バジル",
   "item.goose.extraordinary_soup": "絶品スープ",
-  "item.goose.soup_pot": "スープポット",
   "item.goose.chicken_bone": "鶏の骨",
   "item.goose.onion": "タマネギ",
   "item.goose.onion_seeds": "タマネギの種",
@@ -20,6 +19,7 @@
   "item.goose.duck_toes": "アヒルのつま先",
   "item.goose.goose_spawn_egg": "ガチョウのスポーンエッグ",
   "item.goose.duck_spawn_egg": "アヒルのスポーンエッグ",
+  "item.goose.metal_detector": "金属探知機",
 
   "block.goose.pizza_oven": "ピザオーブン",
   "block.goose.goose_toe_ore": "ガチョウの指の鉱石",
@@ -27,5 +27,7 @@
   "block.goose.duck_toe_ore": "アヒルのつま先の鉱石",
   "block.goose.deepslate_duck_toe_ore": "ディープスレートダックトゥ鉱石",
 
-  "creativetab.goose_tab": "グースモッド"
+  "creativetab.goose_tab": "グースモッド",
+
+  "item.goose.metal_detector.no_valuables": "貴重品は見つかりませんでした"
 }

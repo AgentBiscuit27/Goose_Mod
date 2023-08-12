@@ -8,7 +8,6 @@
   "item.goose.sausage": "Klobása",
   "item.goose.basil": "Bazalka",
   "item.goose.extraordinary_soup": "Výjimečná Polévka",
-  "item.goose.soup_pot": "Hrnec na Polévku",
   "item.goose.chicken_bone": "Kuřecí Kost",
   "item.goose.onion": "Cibule",
   "item.goose.onion_seeds": "Semena Cibule",
@@ -20,6 +19,7 @@
   "item.goose.duck_toes": "Kachní Prsty",
   "item.goose.goose_spawn_egg": "Husí Vejce",
   "item.goose.duck_spawn_egg": "Kachní Vejce",
+  "item.goose.metal_detector": "Detektor Kovů",
 
   "block.goose.pizza_oven": "Pizza Pec",
   "block.goose.goose_toe_ore": "Ruda z Husích Prstů",
@@ -27,5 +27,7 @@
   "block.goose.duck_toe_ore": "Ruda z Kachní Prstů",
   "block.goose.deepslate_duck_toe_ore": "Deepslate Ruda z Kachní Prstů",
 
-  "creativetab.goose_tab": "Mod Husa"
+  "creativetab.goose_tab": "Mod Husa",
+
+  "item.goose.metal_detector.no_valuables": "Nebyly Nalezeny Žádné Cennosti"
 }

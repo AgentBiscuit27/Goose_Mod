@@ -34,12 +34,12 @@ public class ModCreativeModeTabs {
                         pOutput.accept(ModItems.SAUSAGE.get());
                         pOutput.accept(ModItems.SALT_AND_PEPPER.get());
                         pOutput.accept(ModItems.EXTRAORDINARY_SOUP.get());
-                        pOutput.accept(ModItems.SOUP_POT.get());
                         pOutput.accept(ModItems.CHICKEN_BONE.get());
                         pOutput.accept(ModItems.ONION.get());
                         pOutput.accept(ModItems.ONION_SEEDS.get());
                         pOutput.accept(ModItems.RAW_DUCK_MEAT.get());
                         pOutput.accept(ModItems.RAW_GOOSE_MEAT.get());
+                        pOutput.accept(ModItems.METAL_DETECTOR.get());
 
                         pOutput.accept(ModBlocks.PIZZA_OVEN.get());
                         pOutput.accept(ModBlocks.GOOSE_TOE_ORE.get());

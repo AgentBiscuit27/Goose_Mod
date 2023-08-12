@@ -8,7 +8,6 @@
   "item.goose.sausage": "Sausage",
   "item.goose.basil": "Basil",
   "item.goose.extraordinary_soup": "Extra'rdinary soup",
-  "item.goose.soup_pot": "Soup Pot",
   "item.goose.chicken_bone": "Chicken Bone",
   "item.goose.onion": "Onion",
   "item.goose.onion_seeds": "Onion Seeds",
@@ -20,6 +19,7 @@
   "item.goose.duck_toes": "Duck Toes",
   "item.goose.goose_spawn_egg": "Goose Spawn Egg",
   "item.goose.duck_spawn_egg": "Duck Spawm Egg",
+  "item.goose.metal_detector": "Metal Detecteth'r",
 
   "block.goose.pizza_oven": "Zza Oven",
   "block.goose.goose_toe_ore": "Goose Toe Ore",
@@ -27,5 +27,7 @@
   "block.goose.duck_toe_ore": "Duck Toe Ore",
   "block.goose.deepslate_duck_toe_ore": "Deepslate Duck Toe Ore",
 
-  "creativetab.goose_tab": "Goose Mod"
+  "creativetab.goose_tab": "Goose Mod",
+
+  "item.goose.metal_detector.no_valuables": "Nay valuables hath found"
 }

@@ -8,7 +8,6 @@
   "item.goose.sausage": "ǝƃɐsnɐS",
   "item.goose.basil": "lᴉsɐq",
   "item.goose.extraordinary_soup": "dnoS ʎɹɐuᴉpɹoɐɹʇxƎ",
-  "item.goose.soup_pot": "ʇoԀ dnoS",
   "item.goose.chicken_bone": "ǝuoq uǝʞɔᴉɥƆ",
   "item.goose.onion": "uoᴉuO",
   "item.goose.onion_seeds": "spǝǝS uoᴉuO",
@@ -20,6 +19,7 @@
   "item.goose.duck_toes": "sǝo┴ ʞɔnp",
   "item.goose.goose_spawn_egg": "ƃƃƎ uʍɐdS ǝsooפ",
   "item.goose.duck_spawn_egg": "ƃƃƎ uʍɐdS ʞɔnp",
+  "item.goose.metal_detector": "ɹoʇɔǝʇǝp lɐʇǝW",
 
   "block.goose.pizza_oven": "uǝʌO ɐzzᴉԀ",
   "block.goose.goose_toe_ore": "ǝɹO ǝo┴ ǝsooפ",
@@ -27,5 +27,7 @@
   "block.goose.duck_toe_ore": "ǝɹO ǝo┴ ʞɔnp",
   "block.goose.deepslate_duck_toe_ore": "ǝɹO ǝo┴ ʞɔnp ǝʇɐlsdǝǝp",
 
-  "creativetab.goose_tab": "poW ǝsooפ"
+  "creativetab.goose_tab": "poW ǝsooפ",
+
+  "item.goose.metal_detector.no_valuables": "punoℲ sǝlqɐnlɐΛ oN"
 }

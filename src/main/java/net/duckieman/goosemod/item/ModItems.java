@@ -1,6 +1,7 @@
 package net.duckieman.goosemod.item;
 
 import net.duckieman.goosemod.GooseMod;
+import net.duckieman.goosemod.item.custom.MetalDetectorItem;
 import net.minecraft.world.food.FoodProperties;
 import net.minecraft.world.item.Item;
 import net.minecraftforge.eventbus.api.IEventBus;
@@ -39,9 +40,6 @@ public class ModItems {
     public static final RegistryObject<Item> EXTRAORDINARY_SOUP = ITEMS.register("extraordinary_soup",
             () -> new Item(new Item.Properties().food(new FoodProperties.Builder().nutrition(16).saturationMod(14).build())));
 
-    public static final RegistryObject<Item> SOUP_POT = ITEMS.register("soup_pot",
-            () -> new Item(new Item.Properties()));
-
     public static final RegistryObject<Item> CHICKEN_BONE = ITEMS.register("chicken_bone",
             () -> new Item(new Item.Properties()));
 
@@ -74,6 +72,9 @@ public class ModItems {
 
     public static final RegistryObject<Item> DUCK_SPAWN_EGG = ITEMS.register("duck_spawn_egg",
             () -> new Item(new Item.Properties()));
+
+    public static final RegistryObject<Item> METAL_DETECTOR = ITEMS.register("metal_detector",
+            () -> new MetalDetectorItem(new Item.Properties().durability(512)));
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);
