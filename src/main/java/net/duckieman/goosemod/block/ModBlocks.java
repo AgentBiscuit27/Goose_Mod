@@ -2,11 +2,14 @@ package net.duckieman.goosemod.block;
 
 import net.duckieman.goosemod.GooseMod;
 import net.duckieman.goosemod.block.custom.HorizontalRotationBlock;
+import net.duckieman.goosemod.block.custom.SoundBlock;
 import net.duckieman.goosemod.item.ModItems;
+import net.minecraft.client.resources.sounds.Sound;
 import net.minecraft.util.valueproviders.UniformInt;
 import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.level.block.Block;
+import net.minecraft.world.level.block.Blocks;
 import net.minecraft.world.level.block.DropExperienceBlock;
 import net.minecraft.world.level.block.state.BlockBehaviour;
 import net.minecraft.world.level.block.state.properties.NoteBlockInstrument;
@@ -60,6 +63,9 @@ public class ModBlocks {
                     .requiresCorrectToolForDrops()
                     .strength(5.0F, 5.0F),
                     UniformInt.of(4,7)));
+
+    public static final RegistryObject<Block> SOUND_BLOCK = registerBlock("sound_block",
+            () -> new SoundBlock(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK)));
 
     private static <T extends Block> RegistryObject<T> registerBlock(String name, Supplier<T> block) {
         RegistryObject<T> toReturn = BLOCKS.register(name, block);

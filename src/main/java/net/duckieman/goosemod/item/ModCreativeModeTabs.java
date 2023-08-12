@@ -46,6 +46,7 @@ public class ModCreativeModeTabs {
                         pOutput.accept(ModBlocks.DUCK_TOE_ORE.get());
                         pOutput.accept(ModBlocks.DEEPSLATE_DUCK_TOE_ORE.get());
                         pOutput.accept(ModBlocks.DEEPSLATE_GOOSE_TOE_ORE.get());
+                        pOutput.accept(ModBlocks.SOUND_BLOCK.get());
                     }).build());
 
     public static void register(IEventBus eventBus) {

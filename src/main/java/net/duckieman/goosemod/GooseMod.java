@@ -23,7 +23,7 @@ import java.util.stream.Collectors;
 @Mod(GooseMod.MOD_ID)
 public class GooseMod {
     public static final String MOD_ID = "goose";
-    private static final Logger LOGGER = LogUtils.getLogger();
+    public static final Logger LOGGER = LogUtils.getLogger();
 
 
     public GooseMod() {
