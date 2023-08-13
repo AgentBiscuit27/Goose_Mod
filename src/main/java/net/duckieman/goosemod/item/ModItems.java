@@ -1,6 +1,7 @@
 package net.duckieman.goosemod.item;
 
 import net.duckieman.goosemod.GooseMod;
+import net.duckieman.goosemod.item.custom.FuelItem;
 import net.duckieman.goosemod.item.custom.MetalDetectorItem;
 import net.minecraft.world.item.Item;
 import net.minecraftforge.eventbus.api.IEventBus;
@@ -74,6 +75,9 @@ public class ModItems {
 
     public static final RegistryObject<Item> METAL_DETECTOR = ITEMS.register("metal_detector",
             () -> new MetalDetectorItem(new Item.Properties().durability(512)));
+
+    public static final RegistryObject<Item> HEAT_BRICK = ITEMS.register("heat_brick",
+            () -> new FuelItem(new Item.Properties(), 2000));
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);

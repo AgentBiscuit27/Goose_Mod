@@ -40,6 +40,7 @@ public class ModCreativeModeTabs {
                         pOutput.accept(ModItems.RAW_DUCK_MEAT.get());
                         pOutput.accept(ModItems.RAW_GOOSE_MEAT.get());
                         pOutput.accept(ModItems.METAL_DETECTOR.get());
+                        pOutput.accept(ModItems.HEAT_BRICK.get());
 
                         pOutput.accept(ModBlocks.PIZZA_OVEN.get());
                         pOutput.accept(ModBlocks.GOOSE_TOE_ORE.get());
