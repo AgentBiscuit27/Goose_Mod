@@ -31,5 +31,9 @@
 
   "creativetab.goose_tab": "Goose Mod",
 
-  "item.goose.metal_detector.no_valuables": "No Valuables Found"
+  "item.goose.metal_detector.no_valuables": "No Valuables Found",
+
+  "tooltip.goose.metal_detector.tooltip.shift": "Right click on blocks to find valuables.",
+  "tooltip.goose.metal_detector.tooltip": "Press [\u00A7bSHIFT\u00A7r] for more info.",
+  "tooltip.goose.sound_block": "Plays different sounds when right-clicking, shift-right-clicking or while stepping on it."
 }

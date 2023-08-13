@@ -31,5 +31,8 @@
 
   "creativetab.goose_tab": "poW ǝsooפ",
 
-  "item.goose.metal_detector.no_valuables": "punoℲ sǝlqɐnlɐΛ oN"
+  "item.goose.metal_detector.no_valuables": "punoℲ sǝlqɐnlɐΛ oN",
+
+  "tooltip.goose.metal_detector.tooltip.shift": "",
+  "tooltip.goose.metal_detector.tooltip": ""
 }

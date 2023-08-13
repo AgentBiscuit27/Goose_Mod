@@ -31,5 +31,8 @@
 
   "creativetab.goose_tab": "グースモッド",
 
-  "item.goose.metal_detector.no_valuables": "貴重品は見つかりませんでした"
+  "item.goose.metal_detector.no_valuables": "貴重品は見つかりませんでした",
+
+  "tooltip.goose.metal_detector.tooltip.shift": "",
+  "tooltip.goose.metal_detector.tooltip": ""
 }

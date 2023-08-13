@@ -31,5 +31,8 @@
 
   "creativetab.goose_tab": "Mod Husa",
 
-  "item.goose.metal_detector.no_valuables": "Nebyly Nalezeny Žádné Cennosti"
+  "item.goose.metal_detector.no_valuables": "Nebyly Nalezeny Žádné Cennosti",
+
+  "tooltip.goose.metal_detector.tooltip.shift": "",
+  "tooltip.goose.metal_detector.tooltip": ""
 }

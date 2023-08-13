@@ -31,5 +31,8 @@
 
   "creativetab.goose_tab": "Goose Mod",
 
-  "item.goose.metal_detector.no_valuables": "No Valuablez Findz"
+  "item.goose.metal_detector.no_valuables": "No Valuablez Findz",
+
+  "tooltip.goose.metal_detector.tooltip.shift": "",
+  "tooltip.goose.metal_detector.tooltip": ""
 }
